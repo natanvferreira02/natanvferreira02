@@ -12,6 +12,7 @@
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor=FF2D20)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=777BB4)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=jquery&logoColor=0769AD)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -41,6 +42,6 @@
 
 <h3> 🌎 &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-Natan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/natan-vitor-ferreira/))]((https://www.linkedin.com/in/natan-vitor-ferreira/))
+[![Linkedin: Natan Vitor Ferreira](https://img.shields.io/badge/-Natan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natan-vitor-ferreira/)](https://www.linkedin.com/in/natan-vitor-ferreira/)
 [![Gmail Badge](https://img.shields.io/badge/-natanvitorferreira01@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natanvitorferreira01@gmail.com)](mailto:natanvitorferreira01@gmail.com)
-[![GitHub Natan Vitor Ferreira]( https://img.shields.io/github/followers/natanvferreira02?label=follow&style=social)]((https://github.com/natanvferreira02))
+[![GitHub Natan Vitor Ferreira](https://img.shields.io/github/followers/natanvferreira02?label=follow&style=social)](https://github.com/natanvferreira02)
