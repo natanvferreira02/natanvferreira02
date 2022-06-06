@@ -16,6 +16,8 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Firebird](https://img.shields.io/badge/-Firebird-333333?style=flat&logo=sql)
+  ![Postgres](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=4169E1)
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=F80000)
 
 **Utilidades**
@@ -31,6 +33,12 @@
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![PHP Storm](https://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=phpstorm&logoColor=000000)
+  
+**Sistemas utilizados**
+
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=0078D6)
+  ![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=macos&logoColor=000000)
 
 <br/>
 
